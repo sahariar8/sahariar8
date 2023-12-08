@@ -1,8 +1,6 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahariar8&label=Profile%20views&color=0e75b6&style=flat" alt="sahariar8" /> </p>
 <h1 align="center">Hi 👋, I'm Shahariar Alam</h1>
 <h3 align="center">MERN stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahariar8&label=Profile%20views&color=0e75b6&style=flat" alt="sahariar8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahariar8" alt="sahariar8" /></a> </p>
 
@@ -14,7 +12,7 @@
 - 📫 How to reach me **sahariaralam8@gmail.com**
 - ⚡ Fun fact **Chess master in the code and on the board! ♟️ Let's code and checkmate together. #CodeAndChess 🚀**
 
-<h2>Current Status</h2>
+<h2>Github Stats</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahariar8&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
 
 
