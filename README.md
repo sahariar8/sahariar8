@@ -1,8 +1,9 @@
 [![git-banner.png](https://i.postimg.cc/4yB1hNN6/git-banner.png)](https://postimg.cc/0KKSTvSj)
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahariar8" alt="sahariar8" /></a> </p>
+
 <h1>About Me </h1>
+
 - 🔭 I’m currently working on **React.js**
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **Web apps with MERN!Excited to build cool stuff together! 💻🌐 #MERNStack #CodeCollab**
@@ -11,7 +12,7 @@
 - 📫 How to reach me **sahariaralam8@gmail.com**
 - ⚡ Fun fact **Chess master in the code and on the board! ♟️ Let's code and checkmate together. #CodeAndChess 🚀**
 
-<h2>Github Stats:</h2>
+<h2>Current Stats:</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahariar8&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
 
 
