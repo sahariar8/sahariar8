@@ -15,7 +15,7 @@
 - ⚡ Fun fact **Chess master in the code and on the board! ♟️ Let's code and checkmate together. #CodeAndChess 🚀**
 
 <h2>Current Status</h2>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahariar8&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahariar8&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
 
 
 
