@@ -1,4 +1,4 @@
-<p align="left"> <img src=["https://i.postimg.cc/4yB1hNN6/git-banner.png" alt="sahariar8" /> </p>
+[![git-banner.png](https://i.postimg.cc/4yB1hNN6/git-banner.png)](https://postimg.cc/0KKSTvSj)
 <h1 align="center">Hi 👋, I'm Shahariar Alam</h1>
 <h3 align="center">MERN stack Developer</h3>
 
