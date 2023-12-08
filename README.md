@@ -1,9 +1,8 @@
 [![git-banner.png](https://i.postimg.cc/4yB1hNN6/git-banner.png)](https://postimg.cc/0KKSTvSj)
-<h1 align="center">Hi 👋, I'm Shahariar Alam</h1>
-<h3 align="center">MERN stack Developer</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahariar8" alt="sahariar8" /></a> </p>
-
+<h1>About Me </h1>
 - 🔭 I’m currently working on **React.js**
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **Web apps with MERN!Excited to build cool stuff together! 💻🌐 #MERNStack #CodeCollab**
