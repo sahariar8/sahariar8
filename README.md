@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+#Current Status
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahariar8&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 <!--
 **sahariar8/sahariar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
