@@ -3,7 +3,7 @@
 
 <h1>✋Current Overview: </h1>
 
-- 🔭 **I’m currently working on React.js**
+- 🔭 **I’m currently working on Exciting MERN stack projects to enhance my skills and showcase my abilities**
 - 🌱 **I’m currently learning Next.js**
 - 👯 **I’m looking to collaborate on Web apps with MERN!Excited to build cool stuff together! 💻🌐 #MERNStack #CodeCollab**
 - 🤝 **I’m looking for help with web Development**
